@@ -10,3 +10,4 @@ underscore
 iron:router
 jquery
 meteorhacks:fast-render
+mike:mocha
